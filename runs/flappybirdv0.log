@@ -1,0 +1,557 @@
+episode=100 steps=491 mean100=-7.53 last=-8.10 epsilon=0.779
+** new best mean100=-7.53 at episode=100, steps=491
+** new best mean100=-7.52 at episode=101, steps=40
+** new best mean100=-7.50 at episode=102, steps=90
+** new best mean100=-7.50 at episode=104, steps=190
+** new best mean100=-7.48 at episode=105, steps=240
+** new best mean100=-7.45 at episode=107, steps=340
+** new best mean100=-7.36 at episode=108, steps=390
+** new best mean100=-7.35 at episode=109, steps=440
+** new best mean100=-7.33 at episode=110, steps=490
+** new best mean100=-7.29 at episode=111, steps=39
+** new best mean100=-7.27 at episode=112, steps=89
+** new best mean100=-7.26 at episode=113, steps=139
+** new best mean100=-7.25 at episode=114, steps=189
+** new best mean100=-7.22 at episode=115, steps=239
+** new best mean100=-7.20 at episode=116, steps=289
+** new best mean100=-7.19 at episode=118, steps=389
+** new best mean100=-7.18 at episode=121, steps=38
+** new best mean100=-7.16 at episode=122, steps=88
+** new best mean100=-7.15 at episode=123, steps=138
+** new best mean100=-7.04 at episode=125, steps=238
+** new best mean100=-7.02 at episode=127, steps=338
+** new best mean100=-7.01 at episode=128, steps=388
+** new best mean100=-6.98 at episode=129, steps=438
+** new best mean100=-6.98 at episode=130, steps=488
+** new best mean100=-6.95 at episode=131, steps=37
+** new best mean100=-6.92 at episode=132, steps=87
+** new best mean100=-6.87 at episode=134, steps=187
+** new best mean100=-6.86 at episode=135, steps=237
+** new best mean100=-6.85 at episode=136, steps=287
+** new best mean100=-6.82 at episode=137, steps=337
+** new best mean100=-6.82 at episode=138, steps=387
+** new best mean100=-6.80 at episode=139, steps=437
+** new best mean100=-6.80 at episode=140, steps=487
+** new best mean100=-6.76 at episode=141, steps=36
+** new best mean100=-6.73 at episode=142, steps=86
+** new best mean100=-6.72 at episode=143, steps=136
+** new best mean100=-6.71 at episode=144, steps=186
+** new best mean100=-6.70 at episode=145, steps=236
+** new best mean100=-6.69 at episode=146, steps=286
+** new best mean100=-6.68 at episode=147, steps=336
+** new best mean100=-6.66 at episode=148, steps=386
+** new best mean100=-6.64 at episode=150, steps=486
+** new best mean100=-6.62 at episode=152, steps=85
+** new best mean100=-6.61 at episode=153, steps=135
+** new best mean100=-6.59 at episode=154, steps=185
+** new best mean100=-6.51 at episode=155, steps=235
+** new best mean100=-6.47 at episode=156, steps=285
+** new best mean100=-6.46 at episode=157, steps=335
+** new best mean100=-6.46 at episode=158, steps=385
+** new best mean100=-6.41 at episode=159, steps=435
+** new best mean100=-6.40 at episode=160, steps=485
+** new best mean100=-6.38 at episode=161, steps=34
+** new best mean100=-6.37 at episode=162, steps=84
+** new best mean100=-6.36 at episode=163, steps=134
+** new best mean100=-6.35 at episode=164, steps=184
+** new best mean100=-6.34 at episode=165, steps=234
+** new best mean100=-6.31 at episode=166, steps=284
+** new best mean100=-6.27 at episode=167, steps=334
+** new best mean100=-6.24 at episode=168, steps=384
+** new best mean100=-6.13 at episode=169, steps=434
+** new best mean100=-6.08 at episode=170, steps=484
+** new best mean100=-6.07 at episode=171, steps=33
+** new best mean100=-6.03 at episode=172, steps=83
+** new best mean100=-6.00 at episode=175, steps=233
+** new best mean100=-5.99 at episode=177, steps=333
+** new best mean100=-5.98 at episode=178, steps=383
+** new best mean100=-5.95 at episode=179, steps=433
+** new best mean100=-5.93 at episode=180, steps=483
+** new best mean100=-5.89 at episode=181, steps=32
+** new best mean100=-5.86 at episode=183, steps=132
+** new best mean100=-5.84 at episode=186, steps=282
+** new best mean100=-5.80 at episode=187, steps=332
+** new best mean100=-5.76 at episode=188, steps=382
+** new best mean100=-5.71 at episode=189, steps=432
+** new best mean100=-5.70 at episode=190, steps=482
+** new best mean100=-5.68 at episode=191, steps=31
+** new best mean100=-5.67 at episode=192, steps=81
+** new best mean100=-5.66 at episode=193, steps=131
+** new best mean100=-5.54 at episode=194, steps=181
+** new best mean100=-5.53 at episode=195, steps=231
+** new best mean100=-5.52 at episode=196, steps=281
+** new best mean100=-5.50 at episode=199, steps=431
+episode=200 steps=481 mean100=-5.48 last=-6.30 epsilon=0.607
+** new best mean100=-5.48 at episode=200, steps=481
+** new best mean100=-5.47 at episode=201, steps=30
+** new best mean100=-5.44 at episode=202, steps=80
+** new best mean100=-5.42 at episode=203, steps=130
+** new best mean100=-5.39 at episode=204, steps=180
+** new best mean100=-5.36 at episode=206, steps=280
+** new best mean100=-5.35 at episode=207, steps=330
+** new best mean100=-5.35 at episode=212, steps=79
+** new best mean100=-5.32 at episode=213, steps=129
+** new best mean100=-5.24 at episode=214, steps=179
+** new best mean100=-5.23 at episode=217, steps=329
+** new best mean100=-5.12 at episode=218, steps=379
+** new best mean100=-5.11 at episode=219, steps=429
+** new best mean100=-5.03 at episode=220, steps=479
+** new best mean100=-5.02 at episode=221, steps=28
+** new best mean100=-4.96 at episode=227, steps=328
+** new best mean100=-4.96 at episode=228, steps=378
+** new best mean100=-4.95 at episode=229, steps=428
+** new best mean100=-4.94 at episode=230, steps=478
+** new best mean100=-4.89 at episode=235, steps=227
+** new best mean100=-4.84 at episode=236, steps=277
+** new best mean100=-4.75 at episode=237, steps=327
+** new best mean100=-4.75 at episode=238, steps=377
+** new best mean100=-4.70 at episode=240, steps=477
+** new best mean100=-4.60 at episode=244, steps=176
+** new best mean100=-4.57 at episode=245, steps=226
+** new best mean100=-4.55 at episode=246, steps=276
+** new best mean100=-4.53 at episode=248, steps=376
+** new best mean100=-4.51 at episode=249, steps=426
+** new best mean100=-4.48 at episode=250, steps=476
+** new best mean100=-4.38 at episode=251, steps=25
+** new best mean100=-4.36 at episode=253, steps=125
+** new best mean100=-4.31 at episode=254, steps=175
+** new best mean100=-4.28 at episode=258, steps=375
+** new best mean100=-4.21 at episode=259, steps=425
+** new best mean100=-4.15 at episode=260, steps=475
+** new best mean100=-4.12 at episode=262, steps=74
+** new best mean100=-4.01 at episode=264, steps=174
+** new best mean100=-4.00 at episode=272, steps=73
+** new best mean100=-3.94 at episode=273, steps=123
+** new best mean100=-3.91 at episode=274, steps=173
+** new best mean100=-3.88 at episode=277, steps=323
+** new best mean100=-3.82 at episode=278, steps=373
+** new best mean100=-3.78 at episode=280, steps=473
+** new best mean100=-3.71 at episode=281, steps=22
+** new best mean100=-3.68 at episode=282, steps=72
+** new best mean100=-3.67 at episode=283, steps=122
+** new best mean100=-3.55 at episode=284, steps=172
+** new best mean100=-3.44 at episode=285, steps=222
+** new best mean100=-3.38 at episode=286, steps=272
+** new best mean100=-3.31 at episode=288, steps=372
+** new best mean100=-3.29 at episode=290, steps=472
+** new best mean100=-3.23 at episode=291, steps=21
+** new best mean100=-3.19 at episode=292, steps=71
+** new best mean100=-3.08 at episode=293, steps=121
+** new best mean100=-3.08 at episode=295, steps=221
+** new best mean100=-3.05 at episode=296, steps=271
+** new best mean100=-2.95 at episode=297, steps=321
+** new best mean100=-2.87 at episode=299, steps=421
+episode=300 steps=471 mean100=-2.84 last=-3.90 epsilon=0.472
+** new best mean100=-2.84 at episode=300, steps=471
+** new best mean100=-2.75 at episode=301, steps=20
+** new best mean100=-2.73 at episode=302, steps=70
+** new best mean100=-2.71 at episode=303, steps=120
+** new best mean100=-2.70 at episode=305, steps=220
+** new best mean100=-2.64 at episode=306, steps=270
+** new best mean100=-2.57 at episode=307, steps=320
+** new best mean100=-2.55 at episode=309, steps=420
+** new best mean100=-2.51 at episode=310, steps=470
+** new best mean100=-2.48 at episode=312, steps=69
+** new best mean100=-2.41 at episode=316, steps=269
+** new best mean100=-2.38 at episode=317, steps=319
+** new best mean100=-2.37 at episode=318, steps=376
+** new best mean100=-2.31 at episode=319, steps=426
+** new best mean100=-2.28 at episode=320, steps=476
+** new best mean100=-2.25 at episode=321, steps=25
+** new best mean100=-2.24 at episode=322, steps=75
+** new best mean100=-2.24 at episode=323, steps=125
+** new best mean100=-2.22 at episode=324, steps=175
+** new best mean100=-2.18 at episode=325, steps=225
+** new best mean100=-2.14 at episode=326, steps=275
+** new best mean100=-2.10 at episode=328, steps=375
+** new best mean100=-2.08 at episode=329, steps=425
+** new best mean100=-1.98 at episode=330, steps=475
+** new best mean100=-1.92 at episode=332, steps=74
+** new best mean100=-1.89 at episode=333, steps=124
+** new best mean100=-1.80 at episode=334, steps=174
+** new best mean100=-1.77 at episode=339, steps=424
+** new best mean100=-1.76 at episode=340, steps=474
+** new best mean100=-1.71 at episode=342, steps=73
+** new best mean100=-1.68 at episode=343, steps=123
+** new best mean100=-1.67 at episode=350, steps=473
+** new best mean100=-1.62 at episode=355, steps=222
+** new best mean100=-1.57 at episode=357, steps=322
+** new best mean100=-1.46 at episode=361, steps=27
+** new best mean100=-1.41 at episode=362, steps=77
+** new best mean100=-1.30 at episode=363, steps=127
+** new best mean100=-1.24 at episode=365, steps=238
+** new best mean100=-1.16 at episode=367, steps=338
+** new best mean100=-1.06 at episode=368, steps=388
+** new best mean100=-1.00 at episode=369, steps=438
+** new best mean100=-0.94 at episode=370, steps=488
+** new best mean100=-0.94 at episode=374, steps=187
+** new best mean100=-0.91 at episode=375, steps=237
+** new best mean100=-0.81 at episode=376, steps=287
+** new best mean100=-0.77 at episode=379, steps=437
+** new best mean100=-0.73 at episode=380, steps=487
+** new best mean100=-0.71 at episode=383, steps=136
+** new best mean100=-0.68 at episode=394, steps=185
+** new best mean100=-0.68 at episode=395, steps=235
+** new best mean100=-0.63 at episode=396, steps=285
+** new best mean100=-0.63 at episode=397, steps=335
+** new best mean100=-0.53 at episode=398, steps=385
+episode=400 steps=485 mean100=-0.46 last=3.90 epsilon=0.367
+** new best mean100=-0.46 at episode=400, steps=485
+** new best mean100=-0.41 at episode=402, steps=84
+** new best mean100=-0.34 at episode=403, steps=134
+** new best mean100=-0.24 at episode=404, steps=184
+** new best mean100=-0.17 at episode=405, steps=234
+** new best mean100=-0.15 at episode=408, steps=384
+** new best mean100=-0.14 at episode=409, steps=434
+** new best mean100=-0.10 at episode=410, steps=487
+** new best mean100=-0.07 at episode=411, steps=36
+** new best mean100=-0.06 at episode=414, steps=186
+** new best mean100=0.02 at episode=415, steps=236
+** new best mean100=0.09 at episode=417, steps=336
+** new best mean100=0.12 at episode=421, steps=38
+** new best mean100=0.20 at episode=422, steps=88
+** new best mean100=0.29 at episode=423, steps=138
+** new best mean100=0.34 at episode=424, steps=188
+** new best mean100=0.38 at episode=427, steps=338
+** new best mean100=0.44 at episode=433, steps=137
+** new best mean100=0.45 at episode=435, steps=239
+** new best mean100=0.46 at episode=436, steps=289
+** new best mean100=0.55 at episode=437, steps=339
+** new best mean100=0.55 at episode=438, steps=389
+** new best mean100=0.62 at episode=439, steps=439
+** new best mean100=0.69 at episode=441, steps=38
+** new best mean100=0.72 at episode=442, steps=88
+** new best mean100=0.76 at episode=443, steps=138
+** new best mean100=0.77 at episode=445, steps=238
+** new best mean100=0.82 at episode=446, steps=288
+** new best mean100=0.90 at episode=447, steps=338
+** new best mean100=0.96 at episode=448, steps=388
+** new best mean100=1.03 at episode=449, steps=438
+** new best mean100=1.05 at episode=450, steps=488
+** new best mean100=1.07 at episode=451, steps=37
+** new best mean100=1.16 at episode=452, steps=92
+** new best mean100=1.22 at episode=453, steps=142
+** new best mean100=1.25 at episode=454, steps=192
+** new best mean100=1.27 at episode=456, steps=292
+** new best mean100=1.27 at episode=473, steps=143
+** new best mean100=1.33 at episode=475, steps=243
+** new best mean100=1.37 at episode=477, steps=343
+** new best mean100=1.44 at episode=478, steps=393
+** new best mean100=1.45 at episode=480, steps=498
+** new best mean100=1.51 at episode=481, steps=47
+** new best mean100=1.53 at episode=482, steps=97
+** new best mean100=1.56 at episode=483, steps=147
+** new best mean100=1.57 at episode=484, steps=197
+** new best mean100=1.63 at episode=488, steps=397
+** new best mean100=1.67 at episode=490, steps=497
+** new best mean100=1.68 at episode=491, steps=46
+** new best mean100=1.69 at episode=492, steps=96
+** new best mean100=1.72 at episode=493, steps=146
+episode=500 steps=496 mean100=1.43 last=0.30 epsilon=0.286
+** new best mean100=1.80 at episode=513, steps=154
+** new best mean100=1.80 at episode=514, steps=204
+** new best mean100=1.80 at episode=515, steps=254
+** new best mean100=1.80 at episode=516, steps=304
+** new best mean100=1.83 at episode=524, steps=204
+** new best mean100=1.93 at episode=525, steps=254
+** new best mean100=1.98 at episode=529, steps=454
+** new best mean100=1.98 at episode=530, steps=5
+** new best mean100=1.98 at episode=539, steps=455
+** new best mean100=2.02 at episode=540, steps=4
+** new best mean100=2.03 at episode=541, steps=61
+** new best mean100=2.06 at episode=542, steps=113
+** new best mean100=2.06 at episode=543, steps=163
+** new best mean100=2.12 at episode=544, steps=213
+** new best mean100=2.19 at episode=545, steps=263
+** new best mean100=2.22 at episode=546, steps=313
+** new best mean100=2.25 at episode=551, steps=62
+** new best mean100=2.28 at episode=557, steps=384
+** new best mean100=2.38 at episode=558, steps=434
+** new best mean100=2.39 at episode=563, steps=183
+** new best mean100=2.41 at episode=570, steps=76
+** new best mean100=2.49 at episode=571, steps=126
+** new best mean100=2.49 at episode=576, steps=392
+** new best mean100=2.49 at episode=578, steps=492
+** new best mean100=2.51 at episode=582, steps=191
+** new best mean100=2.52 at episode=583, steps=251
+** new best mean100=2.55 at episode=584, steps=301
+** new best mean100=2.62 at episode=585, steps=351
+** new best mean100=2.68 at episode=586, steps=401
+** new best mean100=2.72 at episode=588, steps=36
+** new best mean100=2.80 at episode=589, steps=86
+** new best mean100=2.85 at episode=590, steps=172
+** new best mean100=2.87 at episode=591, steps=222
+** new best mean100=2.90 at episode=592, steps=292
+** new best mean100=2.90 at episode=593, steps=342
+** new best mean100=2.93 at episode=594, steps=392
+** new best mean100=2.99 at episode=595, steps=442
+** new best mean100=3.05 at episode=596, steps=492
+** new best mean100=3.08 at episode=598, steps=91
+** new best mean100=3.15 at episode=599, steps=141
+episode=600 steps=191 mean100=3.15 last=-0.30 epsilon=0.220
+** new best mean100=3.16 at episode=621, steps=284
+** new best mean100=3.18 at episode=627, steps=83
+** new best mean100=3.18 at episode=629, steps=183
+** new best mean100=3.19 at episode=630, steps=241
+** new best mean100=3.26 at episode=631, steps=291
+** new best mean100=3.32 at episode=632, steps=347
+** new best mean100=3.37 at episode=634, steps=458
+** new best mean100=3.37 at episode=635, steps=10
+** new best mean100=3.38 at episode=636, steps=60
+** new best mean100=3.38 at episode=637, steps=110
+** new best mean100=3.41 at episode=638, steps=179
+** new best mean100=3.41 at episode=640, steps=279
+** new best mean100=3.45 at episode=661, steps=349
+** new best mean100=3.55 at episode=664, steps=499
+** new best mean100=3.56 at episode=668, steps=212
+episode=700 steps=357 mean100=3.41 last=3.90 epsilon=0.170
+** new best mean100=3.57 at episode=711, steps=440
+episode=800 steps=462 mean100=2.78 last=3.90 epsilon=0.132
+** new best mean100=3.58 at episode=872, steps=303
+** new best mean100=3.60 at episode=875, steps=457
+** new best mean100=3.61 at episode=877, steps=60
+** new best mean100=3.69 at episode=878, steps=110
+** new best mean100=3.71 at episode=879, steps=176
+** new best mean100=3.72 at episode=880, steps=226
+** new best mean100=3.73 at episode=881, steps=279
+** new best mean100=3.73 at episode=882, steps=329
+** new best mean100=3.75 at episode=884, steps=429
+** new best mean100=3.83 at episode=885, steps=479
+** new best mean100=3.86 at episode=891, steps=280
+** new best mean100=3.86 at episode=892, steps=333
+** new best mean100=3.86 at episode=893, steps=383
+** new best mean100=3.87 at episode=895, steps=488
+** new best mean100=3.97 at episode=897, steps=88
+** new best mean100=4.01 at episode=899, steps=224
+episode=900 steps=274 mean100=4.01 last=3.90 epsilon=0.101
+** new best mean100=4.05 at episode=901, steps=324
+** new best mean100=4.05 at episode=902, steps=375
+** new best mean100=4.10 at episode=904, steps=489
+** new best mean100=4.11 at episode=907, steps=175
+** new best mean100=4.13 at episode=909, steps=289
+** new best mean100=4.16 at episode=927, steps=214
+** new best mean100=4.18 at episode=934, steps=104
+** new best mean100=4.18 at episode=937, steps=254
+** new best mean100=4.22 at episode=939, steps=390
+** new best mean100=4.23 at episode=942, steps=47
+** new best mean100=4.29 at episode=946, steps=278
+** new best mean100=4.31 at episode=948, steps=378
+** new best mean100=4.33 at episode=949, steps=441
+** new best mean100=4.34 at episode=950, steps=496
+** new best mean100=4.36 at episode=952, steps=109
+** new best mean100=4.40 at episode=955, steps=295
+** new best mean100=4.41 at episode=957, steps=404
+** new best mean100=4.42 at episode=958, steps=464
+** new best mean100=4.42 at episode=961, steps=117
+** new best mean100=4.44 at episode=962, steps=183
+** new best mean100=4.46 at episode=966, steps=414
+** new best mean100=4.50 at episode=967, steps=500
+** new best mean100=4.52 at episode=971, steps=227
+** new best mean100=4.52 at episode=973, steps=332
+** new best mean100=4.53 at episode=976, steps=488
+** new best mean100=4.53 at episode=981, steps=262
+** new best mean100=4.56 at episode=982, steps=328
+** new best mean100=4.58 at episode=984, steps=444
+** new best mean100=4.59 at episode=985, steps=499
+** new best mean100=4.59 at episode=987, steps=101
+** new best mean100=4.61 at episode=989, steps=216
+** new best mean100=4.62 at episode=990, steps=272
+** new best mean100=4.62 at episode=991, steps=327
+** new best mean100=4.64 at episode=994, steps=493
+** new best mean100=4.65 at episode=995, steps=51
+** new best mean100=4.67 at episode=996, steps=115
+episode=1000 steps=325 mean100=4.64 last=3.90 epsilon=0.076
+** new best mean100=4.67 at episode=1003, steps=4
+** new best mean100=4.68 at episode=1009, steps=385
+** new best mean100=4.70 at episode=1012, steps=38
+** new best mean100=4.74 at episode=1014, steps=174
+** new best mean100=4.77 at episode=1015, steps=241
+** new best mean100=4.78 at episode=1022, steps=109
+** new best mean100=4.78 at episode=1024, steps=212
+** new best mean100=4.78 at episode=1025, steps=265
+** new best mean100=4.82 at episode=1027, steps=401
+** new best mean100=4.87 at episode=1029, steps=38
+** new best mean100=4.87 at episode=1030, steps=88
+** new best mean100=4.90 at episode=1031, steps=158
+** new best mean100=4.92 at episode=1032, steps=221
+episode=1100 steps=313 mean100=4.56 last=4.00 epsilon=0.058
+episode=1200 steps=17 mean100=4.28 last=3.90 epsilon=0.050
+episode=1300 steps=472 mean100=3.40 last=3.90 epsilon=0.050
+** new best mean100=4.93 at episode=1387, steps=104
+** new best mean100=4.93 at episode=1388, steps=161
+** new best mean100=4.93 at episode=1389, steps=211
+** new best mean100=5.01 at episode=1390, steps=308
+** new best mean100=5.05 at episode=1391, steps=394
+** new best mean100=5.07 at episode=1394, steps=61
+** new best mean100=5.12 at episode=1398, steps=297
+** new best mean100=5.21 at episode=1399, steps=419
+episode=1400 steps=469 mean100=5.21 last=3.90 epsilon=0.050
+** new best mean100=5.23 at episode=1401, steps=30
+** new best mean100=5.23 at episode=1405, steps=231
+** new best mean100=5.27 at episode=1406, steps=317
+** new best mean100=5.32 at episode=1407, steps=403
+** new best mean100=5.39 at episode=1415, steps=422
+** new best mean100=5.45 at episode=1416, steps=18
+** new best mean100=5.47 at episode=1418, steps=154
+** new best mean100=5.52 at episode=1421, steps=376
+** new best mean100=5.54 at episode=1423, steps=494
+** new best mean100=5.56 at episode=1424, steps=56
+** new best mean100=5.61 at episode=1426, steps=192
+** new best mean100=5.62 at episode=1427, steps=253
+** new best mean100=5.64 at episode=1434, steps=144
+** new best mean100=5.64 at episode=1435, steps=194
+** new best mean100=5.69 at episode=1437, steps=330
+** new best mean100=5.71 at episode=1439, steps=448
+** new best mean100=5.74 at episode=1440, steps=33
+** new best mean100=5.75 at episode=1443, steps=233
+** new best mean100=5.79 at episode=1444, steps=319
+** new best mean100=5.80 at episode=1445, steps=378
+** new best mean100=5.81 at episode=1448, steps=80
+episode=1500 steps=244 mean100=5.45 last=8.40 epsilon=0.050
+** new best mean100=5.85 at episode=1563, steps=464
+** new best mean100=5.88 at episode=1564, steps=28
+** new best mean100=5.93 at episode=1576, steps=347
+** new best mean100=5.94 at episode=1596, steps=43
+** new best mean100=5.96 at episode=1597, steps=129
+** new best mean100=6.00 at episode=1598, steps=215
+** new best mean100=6.00 at episode=1599, steps=273
+episode=1600 steps=331 mean100=5.97 last=4.70 epsilon=0.050
+** new best mean100=6.01 at episode=1611, steps=23
+** new best mean100=6.11 at episode=1684, steps=72
+** new best mean100=6.12 at episode=1688, steps=381
+** new best mean100=6.12 at episode=1689, steps=434
+episode=1700 steps=98 mean100=5.99 last=4.90 epsilon=0.050
+** new best mean100=6.14 at episode=1725, steps=297
+** new best mean100=6.14 at episode=1726, steps=364
+** new best mean100=6.22 at episode=1727, steps=414
+** new best mean100=6.29 at episode=1733, steps=360
+** new best mean100=6.29 at episode=1738, steps=154
+** new best mean100=6.30 at episode=1739, steps=215
+** new best mean100=6.40 at episode=1758, steps=226
+** new best mean100=6.42 at episode=1760, steps=343
+** new best mean100=6.56 at episode=1765, steps=222
+episode=1800 steps=440 mean100=6.20 last=4.40 epsilon=0.050
+episode=1900 steps=184 mean100=5.41 last=8.70 epsilon=0.050
+episode=2000 steps=1 mean100=6.05 last=4.70 epsilon=0.050
+** new best mean100=6.61 at episode=2029, steps=128
+** new best mean100=6.73 at episode=2031, steps=343
+** new best mean100=6.87 at episode=2032, steps=10
+** new best mean100=6.92 at episode=2033, steps=96
+** new best mean100=6.93 at episode=2034, steps=154
+** new best mean100=6.95 at episode=2066, steps=31
+** new best mean100=6.95 at episode=2067, steps=87
+** new best mean100=6.98 at episode=2069, steps=206
+** new best mean100=7.03 at episode=2070, steps=299
+episode=2100 steps=30 mean100=7.00 last=6.10 epsilon=0.050
+** new best mean100=7.06 at episode=2117, steps=249
+** new best mean100=7.08 at episode=2118, steps=335
+episode=2200 steps=26 mean100=6.89 last=13.20 epsilon=0.050
+** new best mean100=7.15 at episode=2208, steps=245
+** new best mean100=7.21 at episode=2209, steps=367
+** new best mean100=7.26 at episode=2210, steps=499
+** new best mean100=7.30 at episode=2212, steps=170
+** new best mean100=7.35 at episode=2213, steps=256
+** new best mean100=7.35 at episode=2214, steps=342
+** new best mean100=7.36 at episode=2216, steps=472
+** new best mean100=7.40 at episode=2220, steps=354
+** new best mean100=7.43 at episode=2221, steps=416
+** new best mean100=7.45 at episode=2222, steps=483
+** new best mean100=7.49 at episode=2223, steps=68
+** new best mean100=7.68 at episode=2224, steps=308
+** new best mean100=7.86 at episode=2225, steps=10
+** new best mean100=7.94 at episode=2232, steps=136
+** new best mean100=7.97 at episode=2233, steps=186
+** new best mean100=7.99 at episode=2235, steps=374
+** new best mean100=8.02 at episode=2236, steps=460
+** new best mean100=8.07 at episode=2237, steps=45
+** new best mean100=8.07 at episode=2248, steps=341
+** new best mean100=8.14 at episode=2249, steps=463
+** new best mean100=8.20 at episode=2271, steps=229
+** new best mean100=8.25 at episode=2272, steps=315
+** new best mean100=8.26 at episode=2273, steps=401
+** new best mean100=8.27 at episode=2274, steps=464
+** new best mean100=8.32 at episode=2282, steps=138
+** new best mean100=8.36 at episode=2283, steps=224
+** new best mean100=8.39 at episode=2289, steps=138
+** new best mean100=8.42 at episode=2291, steps=290
+** new best mean100=8.49 at episode=2294, steps=55
+** new best mean100=8.56 at episode=2296, steps=276
+episode=2300 steps=41 mean100=8.38 last=6.80 epsilon=0.050
+episode=2400 steps=264 mean100=7.59 last=10.70 epsilon=0.050
+** new best mean100=8.59 at episode=2478, steps=281
+** new best mean100=8.61 at episode=2481, steps=160
+** new best mean100=8.66 at episode=2486, steps=51
+** new best mean100=8.67 at episode=2499, steps=95
+episode=2500 steps=181 mean100=8.65 last=8.40 epsilon=0.050
+** new best mean100=8.75 at episode=2533, steps=248
+** new best mean100=8.79 at episode=2537, steps=49
+** new best mean100=8.81 at episode=2538, steps=138
+** new best mean100=8.86 at episode=2539, steps=227
+** new best mean100=8.86 at episode=2540, steps=313
+** new best mean100=8.93 at episode=2541, steps=416
+** new best mean100=9.00 at episode=2565, steps=151
+** new best mean100=9.11 at episode=2566, steps=350
+** new best mean100=9.23 at episode=2567, steps=53
+** new best mean100=9.24 at episode=2568, steps=148
+** new best mean100=9.30 at episode=2570, steps=326
+** new best mean100=9.32 at episode=2579, steps=137
+** new best mean100=9.45 at episode=2589, steps=219
+** new best mean100=9.46 at episode=2593, steps=45
+** new best mean100=9.53 at episode=2594, steps=145
+episode=2600 steps=86 mean100=9.48 last=8.40 epsilon=0.050
+** new best mean100=9.65 at episode=2614, steps=420
+** new best mean100=9.79 at episode=2642, steps=135
+** new best mean100=9.80 at episode=2645, steps=369
+episode=2700 steps=284 mean100=9.18 last=10.70 epsilon=0.050
+episode=2800 steps=201 mean100=7.96 last=8.40 epsilon=0.050
+episode=2900 steps=20 mean100=8.47 last=15.60 epsilon=0.050
+episode=3000 steps=419 mean100=8.59 last=3.90 epsilon=0.050
+episode=3100 steps=417 mean100=8.12 last=12.90 epsilon=0.050
+episode=3200 steps=415 mean100=6.41 last=-2.70 epsilon=0.050
+episode=3300 steps=115 mean100=7.11 last=4.80 epsilon=0.050
+episode=3400 steps=282 mean100=8.11 last=8.40 epsilon=0.050
+episode=3500 steps=39 mean100=7.32 last=2.00 epsilon=0.050
+episode=3600 steps=374 mean100=6.19 last=-2.10 epsilon=0.050
+episode=3700 steps=445 mean100=5.66 last=8.40 epsilon=0.050
+episode=3800 steps=432 mean100=6.43 last=6.10 epsilon=0.050
+episode=3900 steps=169 mean100=5.46 last=12.90 epsilon=0.050
+episode=4000 steps=44 mean100=6.03 last=-1.50 epsilon=0.050
+episode=4100 steps=57 mean100=7.84 last=8.40 epsilon=0.050
+episode=4200 steps=185 mean100=9.14 last=8.40 epsilon=0.050
+episode=4300 steps=190 mean100=8.63 last=20.30 epsilon=0.050
+episode=4400 steps=264 mean100=9.04 last=3.90 epsilon=0.050
+episode=4500 steps=173 mean100=7.95 last=45.90 epsilon=0.050
+** new best mean100=9.89 at episode=4590, steps=428
+** new best mean100=9.95 at episode=4591, steps=487
+** new best mean100=9.96 at episode=4592, steps=79
+** new best mean100=9.96 at episode=4593, steps=207
+** new best mean100=10.01 at episode=4594, steps=293
+** new best mean100=10.04 at episode=4595, steps=359
+** new best mean100=10.08 at episode=4596, steps=445
+** new best mean100=10.17 at episode=4598, steps=152
+episode=4600 steps=302 mean100=9.77 last=10.70 epsilon=0.050
+episode=4700 steps=301 mean100=8.93 last=18.00 epsilon=0.050
+** new best mean100=10.25 at episode=4744, steps=380
+** new best mean100=10.28 at episode=4746, steps=49
+** new best mean100=10.40 at episode=4758, steps=249
+** new best mean100=10.41 at episode=4759, steps=371
+** new best mean100=10.49 at episode=4761, steps=208
+** new best mean100=10.49 at episode=4762, steps=301
+** new best mean100=10.64 at episode=4773, steps=53
+** new best mean100=10.69 at episode=4774, steps=149
+** new best mean100=10.74 at episode=4786, steps=214
+** new best mean100=10.80 at episode=4787, steps=282
+** new best mean100=10.83 at episode=4788, steps=386
+** new best mean100=10.88 at episode=4789, steps=472
+** new best mean100=11.02 at episode=4790, steps=134
+** new best mean100=11.16 at episode=4791, steps=351
+** new best mean100=11.17 at episode=4793, steps=58
+episode=4800 steps=339 mean100=10.92 last=15.00 epsilon=0.050
+episode=4900 steps=490 mean100=8.97 last=13.70 epsilon=0.050
+episode=5000 steps=5 mean100=8.34 last=9.00 epsilon=0.050
+episode=5100 steps=346 mean100=6.92 last=4.20 epsilon=0.050
+episode=5200 steps=166 mean100=7.50 last=3.90 epsilon=0.050
+episode=5300 steps=333 mean100=6.83 last=3.90 epsilon=0.050
+episode=5400 steps=407 mean100=7.67 last=4.30 epsilon=0.050
+episode=5500 steps=306 mean100=7.97 last=6.30 epsilon=0.050
+episode=5600 steps=152 mean100=6.69 last=10.50 epsilon=0.050
