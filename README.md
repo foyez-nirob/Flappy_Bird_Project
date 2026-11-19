@@ -81,16 +81,16 @@ This separation helps reduce overestimation of action values and can improve lea
 ```text
 FlappyBird-DoubleDQN/
 │
-├── main.py              # Main training and testing script
+├── Agent.py             # Main training and testing script
 ├── dqn.py               # DQN neural network architecture
 ├── ReplayMemory.py      # Experience replay implementation
 ├── parameters.yaml      # Training hyperparameters
+├── Flappy_Bird_Game.py  # Manual Human play 
 │
 ├── runs/                # Saved models and training logs
 │   ├── model.pt
 │   └── training.log
 │
-├── requirements.txt     # Project dependencies
 └── README.md
 ```
 
@@ -126,12 +126,6 @@ venv\Scripts\activate
 **3. Install dependencies**
 
 ```bash
-pip install -r requirements.txt
-```
-
-If you haven't created a `requirements.txt` yet, install the main packages:
-
-```bash
 pip install torch gymnasium flappy-bird-gymnasium pyyaml numpy
 ```
 
@@ -140,7 +134,7 @@ pip install torch gymnasium flappy-bird-gymnasium pyyaml numpy
 To train the agent, run:
 
 ```bash
-python main.py YOUR_HYPERPARAMETER_SET --train
+python Agent.py YOUR_HYPERPARAMETER_SET --train
 ```
 
 Replace `YOUR_HYPERPARAMETER_SET` with a valid configuration name defined in `parameters.yaml`.
@@ -148,7 +142,7 @@ Replace `YOUR_HYPERPARAMETER_SET` with a valid configuration name defined in `pa
 For example:
 
 ```bash
-python main.py default --train
+python Agent.py default --train
 ```
 
 During training, the agent explores the environment, collects experiences, and updates its neural network using sampled mini-batches.
@@ -160,7 +154,7 @@ The best-performing policy network is saved in the `runs/` directory.
 To evaluate the trained agent:
 
 ```bash
-python main.py default
+python Agent.py default
 ```
 
 This loads the saved model and runs the agent in the Flappy Bird environment.
@@ -179,26 +173,3 @@ The model checkpoint can be loaded later without training the agent again.
 ## Key Learnings
 
 Working on this project helped me understand several Reinforcement Learning concepts beyond their theoretical definitions.
-
-Some of my most important learnings were:
-
-- Understanding how Q-values guide an agent's decision-making.
-- Why consecutive experiences are correlated and how Experience Replay helps address this problem.
-- Why DQN needs a separate Target Network.
-- How overestimation bias occurs and how Double DQN reduces it.
-- How epsilon-greedy strategy balances exploration and exploitation.
-- How neural networks learn through loss calculation, backpropagation, and gradient-based optimization.
-- How hyperparameters affect the agent's learning process and performance.
-
-## Future Improvements
-
-Some possible directions for further experimentation:
-
-- Experiment with different hyperparameters and training strategies.
-- Compare standard DQN and Double DQN performance.
-- Improve training stability and agent performance.
-- Explore additional DQN improvements such as Dueling DQN and Prioritized Experience Replay.
-
----
-
-**Built as a hands-on learning project to understand and implement Deep Reinforcement Learning.**
